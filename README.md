@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srishti-jpg
 - 👀 I’m interested in web designing
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...🤔
 - 📫 How to reach me srushtilute@gmail.com
 - 😄 Pronouns: srishti
